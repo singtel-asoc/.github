@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: 'INSERT_ISSUE_TITLE_HERE INSERT_SR_RITM_CR_HERE'
 labels: ''
 assignees: ''
 
